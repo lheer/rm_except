@@ -1,2 +1,2 @@
 # rm_except
-cmdline tool to remove everything except some entries
+A small command line utility to remove everything in a folder except the given files or folders.
